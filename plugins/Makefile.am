@@ -46,6 +46,7 @@ include xdebug/Makefile.inc
 if BUILD_EXPERIMENTAL_PLUGINS
 
 include experimental/acme/Makefile.inc
+include experimental/astats_over_http/Makefile.inc
 include experimental/balancer/Makefile.inc
 include experimental/buffer_upload/Makefile.inc
 include experimental/cache_promote/Makefile.inc
