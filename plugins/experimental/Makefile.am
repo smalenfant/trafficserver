@@ -16,6 +16,7 @@
 
 SUBDIRS = \
  acme \
+ astats_over_http \
  authproxy \
  background_fetch \
  balancer \
